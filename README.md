@@ -2,7 +2,7 @@
 
 Este repositório foi desenvolvido como parte da atividade prática da disciplina de Teste de Software.
 
-**Aluno:** Murilo da Silva 
+**Aluno:** Murilo da Silva  
 **Instituição:** UniSENAI  
 **Professor:** MSc. Hugo Menezes Barra  
 
